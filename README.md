@@ -1,21 +1,17 @@
-# book-search-engine
-```
-Google Books API search engine built in MERN Stack.
-
+# Social-Network-API
 
 ### Github : https://github.com/Tsedi28/book-search-engine
 
 ### Website : https://book-search-engine4.herokuapp.com/
 
-### video recording : https://drive.google.com/file/d/1XiwsfvPuvmTx-QcXv9NnhnerTM6dqBdp/view
+### Walkthrough video : https://drive.google.com/file/d/1XiwsfvPuvmTx-QcXv9NnhnerTM6dqBdp/view
 
 
 ## Table of Contents
 
 - [Description](#description)
-- [User Story](#userstory)
 - [Technology](#Technology)
-- [Installation](#installation)
+- [UserStory](#userstory)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
@@ -26,10 +22,23 @@ Google Books API search engine built in MERN Stack.
 
 Google Books API search engine built in MERN Stack. Other than searching for books, users can sign up and login their account to save their favorive books.
 
+## Technology:
+
+Project is created with:
+
+<p><a href="https://www.mongodb.com/">MongoDB</a></p>
+<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
+<p><a href="https://reactjs.org/">React.js</a></p>
+<p><a href="https://nodejs.org/">Node.js</a></p>
+
+
 ## User Story
-- AS AN avid reader
-- I WANT to search for new books to read
-- SO THAT I can keep a list of books to purchase
+- As an avid reader
+- I want to search for new books to read
+- So that I can keep a list of books to purchase
+```
+npm install
+```
 
 ## Usage
 
@@ -45,14 +54,6 @@ Saved books are stored in their account, so next time they login, the books are 
 ![Screenshot](./client/src/assets/img/search_books.png)
 
 ![Screenshot](./client/src/assets/img/saved_books.png)
-
-
-## Technology:
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://reactjs.org/">React.js</a></p>
-<p><a href="https://nodejs.org/">Node.js</a></p>
-
 
 ## License
 
