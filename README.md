@@ -32,15 +32,14 @@ Project is created with:
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://reactjs.org/">React.js</a></p>
 <p><a href="https://nodejs.org/">Node.js</a></p>
-```
-```
 
+```
+```
 ## User Story
 - As an avid reader
 - I want to search for new books to read
 - So that I can keep a list of books to purchase
 ```
-
 ```
 ## Usage
 
