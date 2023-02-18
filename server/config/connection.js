@@ -8,3 +8,5 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/googlebooks', {
 });
 
 module.exports = mongoose.connection;
+
+// mongodb+srv://dbuser:admin2@cluster0.xb9nwrj.mongodb.net/?retryWrites=true&w=majority
